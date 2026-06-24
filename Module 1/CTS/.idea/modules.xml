@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTS.iml" filepath="$PROJECT_DIR$/CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10_MVC/Exercise10_MVC.iml" filepath="$PROJECT_DIR$/Exercise10_MVC/Exercise10_MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11_DependencyInjection/Exercise11_DependencyInjection.iml" filepath="$PROJECT_DIR$/Exercise11_DependencyInjection/Exercise11_DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_SingletonPattern/Exercise1_SingletonPattern.iml" filepath="$PROJECT_DIR$/Exercise1_SingletonPattern/Exercise1_SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_FactoryMethodPattern/Exercise2_FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/Exercise2_FactoryMethodPattern/Exercise2_FactoryMethodPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise3_BuilderPattern/Exercise3_BuilderPattern.iml" filepath="$PROJECT_DIR$/Exercise3_BuilderPattern/Exercise3_BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise4_AdapterPattern/Exercise4_AdapterPattern.iml" filepath="$PROJECT_DIR$/Exercise4_AdapterPattern/Exercise4_AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise5_DecoratorPattern/Exercise5_DecoratorPattern.iml" filepath="$PROJECT_DIR$/Exercise5_DecoratorPattern/Exercise5_DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise6_ProxyPattern/Exercise6_ProxyPattern.iml" filepath="$PROJECT_DIR$/Exercise6_ProxyPattern/Exercise6_ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise7_ObserverPattern/Exercise7_ObserverPattern.iml" filepath="$PROJECT_DIR$/Exercise7_ObserverPattern/Exercise7_ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise8_StrategyPattern/Exercise8_StrategyPattern.iml" filepath="$PROJECT_DIR$/Exercise8_StrategyPattern/Exercise8_StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise9_CommandPattern/Exercise9_CommandPattern.iml" filepath="$PROJECT_DIR$/Exercise9_CommandPattern/Exercise9_CommandPattern.iml" />
+    </modules>
+  </component>
+</project>
